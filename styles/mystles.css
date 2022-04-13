@@ -1,0 +1,36 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(235, 240, 241);
+
+}
+
+h2{
+    text-align: center;
+    color: black;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+#top{ 
+    color: gray;
+
+}
+
+.boldText{ 
+    color: lightpink;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+body{ 
+    background-color: rgb(235, 240, 241);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
